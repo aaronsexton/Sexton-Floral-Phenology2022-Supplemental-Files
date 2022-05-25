@@ -5,5 +5,7 @@ Appendix S1 - has the lats and long of each study site and the % of each land cl
 Supplemental File 2 has the model averaging outputs.
 
 Sextonetal_FP_RepoCode - has the code to run the analyses and make the plots
+
 fp_master_2022 - data
+
 map_final_2 - model outputs for plotting results
